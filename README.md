@@ -1,2 +1,2 @@
-# Apna-Bageecha---Plant-Selling-Website
-• Allows customers to browse a selection of plants and make purchases online. • Provides information about the plants, including care instructions, lighting requirements and other benefits..
+# Apna-Bageecha-Plant-Selling-Website
+"Apna Bageecha - Plant Selling Website is a platform that allows customers to explore a diverse selection of plants and conveniently make purchases online. The website provides detailed information about each plant, offering insights into care instructions, lighting requirements, and various benefits. Users can browse through the collection, making informed decisions based on the comprehensive details provided. The goal of Apna Bageecha is to offer a user-friendly and informative experience, enhancing the online plant shopping journey for customers."
